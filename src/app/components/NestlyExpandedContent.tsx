@@ -252,10 +252,10 @@ export default function NestlyExpandedContent() {
           APRENDIZAJE
         </h4>
         <p className="font-['Montserrat',sans-serif] text-gray-700 leading-relaxed mb-4 text-[15px]">
-          Esta experiencia me enseñó mis habilidades en UX Research y Design Thinking. Basado en estudiar a los usuarios y diseñar mas de 30 pantallas consecutivamente con wireframes de baja fidelidad hasta llegar al prototipo final. Además, desarrollé una librería de componentes reutilizables que garantizó la consistencia visual y la escalabilidad de la interfaz.
+          Este proyecto fortaleció mis habilidades en UX Research y Design Thinking. Realicé encuestas a 10 usuarios y pruebas de usabilidad con 5 personas para validar decisiones de diseño, lo que me permitió priorizar las funcionalidades del MVP con base en necesidades reales.
         </p>
-        <p className="font-['Montserrat',sans-serif] text-gray-700 leading-relaxed text-[13px]">
-          A lo largo del proceso, diseñe mas de 30 pantallas conectando con wireframes de baja fidelidad hasta llegar al prototipo final. Además, desarrollé una librería de componentes reutilizables que garantizó la consistencia visual y la escalabilidad de la interfaz.
+        <p className="font-['Montserrat',sans-serif] text-gray-700 leading-relaxed text-[15px]">
+          A lo largo del proceso diseñe más de 30 pantallas comenzando con wireframes de baja fidelidad hasta llegar al prototipo final. Además, desarrollé una librería de componentes reutilizables que garantizó consistencia visual y facilitó la escalabilidad de la interfaz.
         </p>
       </div>
 
